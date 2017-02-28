@@ -1,0 +1,9 @@
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality\FoodEquality\bin\Debug\FoodEquality.exe.config
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality\FoodEquality\bin\Debug\FoodEquality.exe
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality\FoodEquality\bin\Debug\FoodEquality.pdb
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality\FoodEquality\obj\Debug\FoodEquality.exe
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality\FoodEquality\obj\Debug\FoodEquality.pdb
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality\FoodEquality\obj\Debug\FoodEquality.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality new\FoodEquality\bin\Debug\FoodEquality.exe.config
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality new\FoodEquality\obj\Debug\FoodEquality.exe
+C:\Users\Dan\Dropbox\Programming\Pluralsight\csharp equality\FoodEquality new\FoodEquality\obj\Debug\FoodEquality.pdb
